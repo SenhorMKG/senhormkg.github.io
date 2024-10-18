@@ -1,5 +1,5 @@
 .controller.ps {
-    background: url(ps3-assets/base.png);
+    background: url(base.png);
     height: 558px;
     width: 784px;
     /*    margin-left: -392px;
@@ -24,7 +24,7 @@
 .ps .trigger {
     width: 86px;
     height: 65px;
-    background: url(ps3-assets/triggers.png);
+    background: url(triggers.png);
     opacity: 0;
 }
 
@@ -39,7 +39,7 @@
 .ps .bumper {
     width: 89px;
     height: 28px;
-    background: url(ps3-assets/bumpers.png);
+    background: url(bumpers.png);
     opacity: 0;
 }
 
@@ -67,7 +67,7 @@
 
 .ps .quadrant {
     position: absolute;
-    background: url(ps3-assets/player-n.png);
+    background: url(player-n.png);
     height: 17px;
     width: 111px;
     top: 140px;
@@ -99,7 +99,7 @@
 }
 
 .ps .back, .ps .start {
-    background: url(ps3-assets/menus.png);
+    background: url(menus.png);
     width: 34px;
     height: 19px;
 }
@@ -132,7 +132,7 @@
     position: absolute;
     width: 62px;
     height: 62px;
-    background: url(ps3-assets/face-buttons.png);
+    background: url(face-buttons.png);
 }
 
 .ps .button.pressed {
@@ -172,7 +172,7 @@
 
 .ps .stick {
     position: absolute;
-    background: url(ps3-assets/thumbs.png);
+    background: url(thumbs.png);
     height: 105px;
     width: 105px;
 }
@@ -204,7 +204,7 @@
 }
 
 .ps .face {
-    background: url(ps3-assets/dpad.png);
+    background: url(dpad.png);
     position: absolute;
 }
 
